@@ -1,0 +1,10 @@
+hmmmm
+
+for creating a default installation 
+     npm init - y
+
+now installing dependancies 
+    npm i express ejs express-ejs-layouts
+
+now saving a developement dependancy
+    npm i --save-dev nodemon
