@@ -8,3 +8,7 @@ now installing dependancies
 
 now saving a developement dependancy
     npm i --save-dev nodemon
+
+for debugging we have to install 
+    npm install morgan
+    
